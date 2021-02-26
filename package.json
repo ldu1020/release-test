@@ -1,0 +1,19 @@
+{
+  "name": "release-test-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldu1020/release-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldu1020/release-test/issues"
+  },
+  "homepage": "https://github.com/ldu1020/release-test#readme"
+}
