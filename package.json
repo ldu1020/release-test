@@ -1,6 +1,7 @@
 {
   "name": "release-test-final",
   "version": "1.0.0",
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ldu1020/release-test/issues"
   },
-  "homepage": "https://github.com/ldu1020/release-test#readme"
+  "homepage": "https://github.com/ldu1020/release-test#readme",
+  "devDependencies": {
+    "semantic-release": "^17.4.0"
+  }
 }
